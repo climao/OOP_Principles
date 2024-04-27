@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59c44bed-43d5-496d-8485-173d04332eeb" name="Changes" comment="First version.">
+    <list default="true" id="59c44bed-43d5-496d-8485-173d04332eeb" name="Changes" comment="Update abstract examples.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/abstractClasses/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/Bird.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/abstractClasses/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/TestBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/TestBird.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/abstractClasses/TestFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/TestFish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructors/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructors/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructors/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructors/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/Rabbit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructors/TestConstructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/TestConstructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation/TestAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation/TestAnimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +54,11 @@
     "Application.TesteInheritance.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestBird">
+  <component name="RunManager" selected="Application.TestConstructors">
     <configuration name="TestBird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abstractClasses.TestBird" />
       <module name="OOP Principles" />
@@ -120,10 +126,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestConstructors" />
         <item itemvalue="Application.TestBird" />
         <item itemvalue="Application.TestFish" />
         <item itemvalue="Application.TestStudent" />
-        <item itemvalue="Application.TestConstructors" />
         <item itemvalue="Application.TestDynamicPolymorphism" />
       </list>
     </recent_temporary>
@@ -145,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714241029872</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update abstract examples.">
+      <option name="closed" value="true" />
+      <created>1714249425910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714249425910</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +200,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First version." />
-    <option name="LAST_COMMIT_MESSAGE" value="First version." />
+    <MESSAGE value="Update abstract examples." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update abstract examples." />
   </component>
 </project>

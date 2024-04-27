@@ -8,13 +8,13 @@ package encapsulation;
 
 public class Animal {
     /**
-     * All instance variables are "private" making them inaccessible to othe classes.
+     * All instance variables are "private" making them inaccessible to other classes.
      */
     private String name;
     private double averageWeight;
     private int numberOfLegs;
 
-    // Getter methods - Only way to "get" object state.
+    // Getter methods - Only way to "get" object state, because instance variables are private.
     public String getName() {
         return name;
     }
@@ -25,7 +25,7 @@ public class Animal {
         return numberOfLegs;
     }
 
-    // Setter methods - Only way to "set" (change) object state.
+    // Setter methods - Only way to "set" (change) object state, because instance variables are private.
     public void setName(String name) {
         this.name = name;
     }

@@ -1,3 +1,9 @@
+/**
+ * A class to ilustrate abstract classes and methods in Java.
+ *
+ * @author Carlos Limão.
+ * @version April 8 2024
+ */
 package abstractClasses;
 
 /**
