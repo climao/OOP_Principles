@@ -12,5 +12,7 @@ The suggested order to follow these examples is the following:
 4. constructors
 5. inheritance
 6. abstractClasses
-7. staticPolimorphism
-8. dynamicPolimorphism
+7. staticPolymorphism
+8. dynamicPolymorphism
+
+This is an IntelliJ IDEA project. You can download the IntelliJ IDEA Community Edition which is free to use.
