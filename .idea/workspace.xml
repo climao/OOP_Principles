@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59c44bed-43d5-496d-8485-173d04332eeb" name="Changes" comment="Rename Project and repository.">
-      <change afterPath="$PROJECT_DIR$/src/interfaces/ElectronicDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/InternetDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Smartphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/TestSmartphone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="59c44bed-43d5-496d-8485-173d04332eeb" name="Changes" comment="Update examples and add interfaces package.">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/TestBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/TestBird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/TestFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/TestFish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classesAndObjects/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classesAndObjects/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classesAndObjects/TestPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classesAndObjects/TestPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constructors/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constructors/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constructors/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/Horse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constructors/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/Rabbit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constructors/TestConstructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/TestConstructors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicPolymorphism/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicPolymorphism/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicPolymorphism/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicPolymorphism/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicPolymorphism/TestDynamicPolymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicPolymorphism/TestDynamicPolymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Eagle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/TestInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/TestInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/instanceVariables/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceVariables/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/instanceVariables/TestStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceVariables/TestStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/staticPolymorphism/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticPolymorphism/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/staticPolymorphism/TestStaticPolymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticPolymorphism/TestStaticPolymorphism.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715775801497</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update examples and add interfaces package.">
+      <option name="closed" value="true" />
+      <created>1715788351478</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715788351478</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,6 +262,7 @@
     <MESSAGE value="Add classesAndObjects package." />
     <MESSAGE value="Correct some misspelled words." />
     <MESSAGE value="Rename Project and repository." />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename Project and repository." />
+    <MESSAGE value="Update examples and add interfaces package." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update examples and add interfaces package." />
   </component>
 </project>
