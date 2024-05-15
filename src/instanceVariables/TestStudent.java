@@ -30,10 +30,11 @@ public class TestStudent {
         System.out.println("Student 2 default grade: " + student2.getGrade());
         System.out.println("Student 3 default grade: " + student3.getGrade());
 
-        // ... but can be changed using the class provided "setter"
+        // The "grade" instance variable can be changed using the class provided methods
         student1.setGrade(15.0);
         student2.setGrade(16.0);
         student3.setGrade(17.0);
+
         System.out.println("Student 1 grade: " + student1.getGrade());
         System.out.println("Student 2 grade: " + student2.getGrade());
         System.out.println("Student 3 grade: " + student3.getGrade());

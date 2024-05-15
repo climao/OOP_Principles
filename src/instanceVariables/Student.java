@@ -10,7 +10,7 @@ public class Student {
     // The "name"  instance variable is visible from any class outside.
     public String name;
 
-    // The "grade" instance variable is visible in Student class only.
+    // The "grade" instance variable is visible in this class only.
     private double grade;
 
     /**

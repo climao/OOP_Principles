@@ -9,7 +9,7 @@ package classesAndObjects;
 
 public class TestPerson {
     /**
-     * This is the entry point in a Java program.
+     * This is the entry point, in a Java program.
      */
     public static void main(String [] args) {
         // Create a new Person object (also refered as "instance").
@@ -19,11 +19,12 @@ public class TestPerson {
 
         // Change the new object state using the available (exposed) behaviour.
         // We use the "dot" operator to access methods and properties of the object.
-        p.set_person();
+        p.setPerson("Jack", 20);
 
-        // Access the object value using another of its "behaviours".
-        p.get_person();
+        // Use another of the Person "behaviours".
+        p.sayName();
 
-        p.say_name();
+        // Since the object properties are public, we can access them here
+        System.out.println("This person is: " + p.name + " (" + p.age + ")");
     }
 }

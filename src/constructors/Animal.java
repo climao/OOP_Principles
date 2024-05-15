@@ -13,7 +13,7 @@ class Animal {
      * The default construcor doesn't have any parameters.
      * If not implemented, the compiler will provide one.
      *
-     * A constructor doesn't have a return type.
+     * A constructor *does not* have a return type.
      */
     Animal() {
         this.name = "animal";

@@ -13,7 +13,7 @@ package dynamicPolymorphism;
 public class TestDynamicPolymorphism {
     public static void main(String[] args) {
 
-        Animal oneAnimal = new Animal();  // Animal reference stores an Animal object.
+        Animal oneAnimal = new Animal();  // Animal reference stores an Animal object (no polymorphism involved).
         oneAnimal.eat();                  // Object (Animal) method is called.
 
         Bird oneBird = new Bird();        // Bird reference stores a Bird object.

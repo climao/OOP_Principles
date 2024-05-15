@@ -6,7 +6,7 @@
  */
 package dynamicPolymorphism;
 
-public class Bird extends Animal{
+public class Bird extends Animal {
     /**
      * Overrides the base class method to specialize a Bird's behaviour.
      *

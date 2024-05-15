@@ -9,8 +9,8 @@ The suggested order to follow these examples is the following:
 1. classesAndObjects
 2. instanceVariables
 3. encapsulation
-4. constructors
-5. inheritance
+4. inheritance
+5. constructors
 6. abstractClasses
 7. staticPolymorphism
 8. dynamicPolymorphism

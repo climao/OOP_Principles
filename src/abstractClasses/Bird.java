@@ -12,7 +12,6 @@ package abstractClasses;
  * The @Override annotation informs the compiler that the method is meant to override the one
  * declared in the superclass. It is not mandatory, but helps to prevent errors.
  */
-
 public class Bird extends Animal {
     @Override
     void move() {

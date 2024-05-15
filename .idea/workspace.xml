@@ -4,12 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59c44bed-43d5-496d-8485-173d04332eeb" name="Changes" comment="Correct some misspelled words.">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="59c44bed-43d5-496d-8485-173d04332eeb" name="Changes" comment="Rename Project and repository.">
+      <change afterPath="$PROJECT_DIR$/src/interfaces/ElectronicDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/InternetDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/TestSmartphone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Principles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Principles_Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractClasses/TestBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/TestBird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractClasses/TestFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/TestFish.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classesAndObjects/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classesAndObjects/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classesAndObjects/TestPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classesAndObjects/TestPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructors/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructors/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructors/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructors/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/Rabbit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructors/TestConstructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/TestConstructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dynamicPolymorphism/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicPolymorphism/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dynamicPolymorphism/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicPolymorphism/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dynamicPolymorphism/TestDynamicPolymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicPolymorphism/TestDynamicPolymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/TestInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/TestInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/instanceVariables/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceVariables/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/instanceVariables/TestStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceVariables/TestStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staticPolymorphism/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticPolymorphism/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staticPolymorphism/TestStaticPolymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticPolymorphism/TestStaticPolymorphism.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +40,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -38,28 +60,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.TestAnimal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestBird.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestConstructors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestDynamicPolymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestFish.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestInheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestPerson.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestStaticPolymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestStudent.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesteInheritance.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TestAnimal.executor": "Run",
+    "Application.TestBird.executor": "Run",
+    "Application.TestConstructors.executor": "Run",
+    "Application.TestDynamicPolymorphism.executor": "Run",
+    "Application.TestFish.executor": "Run",
+    "Application.TestInheritance.executor": "Run",
+    "Application.TestPerson.executor": "Run",
+    "Application.TestSmartphone.executor": "Run",
+    "Application.TestStaticPolymorphism.executor": "Run",
+    "Application.TestStudent.executor": "Run",
+    "Application.TesteInheritance.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
-  <component name="RunManager" selected="Application.TestPerson">
+}]]></component>
+  <component name="RunManager" selected="Application.TestSmartphone">
     <configuration name="TestBird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abstractClasses.TestBird" />
       <module name="OOP Principles_Java" />
@@ -73,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructors.TestConstructors" />
+    <configuration name="TestDynamicPolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicPolymorphism.TestDynamicPolymorphism" />
       <module name="OOP Principles_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="constructors.*" />
+          <option name="PATTERN" value="dynamicPolymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classesAndObjects.TestPerson" />
+    <configuration name="TestSmartphone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.TestSmartphone" />
       <module name="OOP Principles_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classesAndObjects.*" />
+          <option name="PATTERN" value="interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="instanceVariables.TestStudent" />
+    <configuration name="TestStaticPolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticPolymorphism.TestStaticPolymorphism" />
       <module name="OOP Principles_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="instanceVariables.*" />
+          <option name="PATTERN" value="staticPolymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestPerson" />
-        <item itemvalue="Application.TestConstructors" />
-        <item itemvalue="Application.TestBird" />
+        <item itemvalue="Application.TestSmartphone" />
+        <item itemvalue="Application.TestDynamicPolymorphism" />
+        <item itemvalue="Application.TestStaticPolymorphism" />
         <item itemvalue="Application.TestFish" />
-        <item itemvalue="Application.TestStudent" />
+        <item itemvalue="Application.TestBird" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714314665943</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Rename Project and repository.">
+      <option name="closed" value="true" />
+      <created>1715775801497</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715775801497</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,6 +278,7 @@
     <MESSAGE value="Many editorial changes." />
     <MESSAGE value="Add classesAndObjects package." />
     <MESSAGE value="Correct some misspelled words." />
-    <option name="LAST_COMMIT_MESSAGE" value="Correct some misspelled words." />
+    <MESSAGE value="Rename Project and repository." />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename Project and repository." />
   </component>
 </project>
