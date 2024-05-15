@@ -16,12 +16,16 @@ public class Person {
     String name;
 
     // Behavior of an object of this class.
-    public void set_value() {
+    public void set_person() {
         age = 20;
         name = "Jack";
     }
-    public void get_value() {
+    public void get_person() {
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
+    }
+
+    public void say_name() {
+        System.out.println("Hi! My name is " + name);
     }
 }
