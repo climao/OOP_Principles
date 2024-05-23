@@ -15,5 +15,6 @@ The suggested order to follow these examples is the following:
 7. staticPolymorphism
 8. dynamicPolymorphism
 9. interfaces
+10. classVariables
 
 This is an IntelliJ IDEA project. You can download the IntelliJ IDEA Community Edition which is free to use.
